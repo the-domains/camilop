@@ -6,9 +6,9 @@ color:
   saturation: 0.9338807389140129
   rhythmicContrast: 0.765719749731943
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
 name: camilop
