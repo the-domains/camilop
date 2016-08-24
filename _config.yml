@@ -1,4 +1,3 @@
-layout_spectrum: 0.13018503435887396
 typography_spectrum: 0.26145059755072
 color:
   brandStrength: 0.8727965974248946
@@ -11,4 +10,6 @@ color:
     - '#FFFCC4'
     - '#F0EDBB'
     - '#FF3800'
+layout_spectrum: 0.13018503435887396
 name: camilop
+description: dramaturgo - diretor - ator
